@@ -1,0 +1,6 @@
+discord.py[voice]
+pip
+youtube_dl
+ffmpeg
+asyncio
+colorlog
